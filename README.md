@@ -1,6 +1,6 @@
 # EX NO: Cloud-account-set-up-and-services
-## Name : ROGHITH K
-## Reg no: 212222040135
+## Name : Rohiit A S
+## Reg no: 212223100047
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
